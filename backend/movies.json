@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "Casino",
+    "logo": "/assets/posters/img1.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=jClDEbfSpi4",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+    {
+    "id": 2,
+    "name": "Tiger 3",
+    "logo": "/assets/posters/img2.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=jClDEbfSpi4",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+  {
+    "id": 3,
+    "name": "100 Days of Love",
+    "logo": "/assets/posters/img3.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=jClDEbfSpi4",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Lord of War",
+    "logo": "/assets/posters/img4.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=jClDEbfSpi4",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Bharath",
+    "logo": "/assets/posters/img5.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=jClDEbfSpi4",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+  {
+    "id": 6,
+    "name": "The Creator",
+    "logo": "/assets/posters/img6.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=jClDEbfSpi4",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+
+  {
+    "id": 7,
+    "name": "Venom",
+    "logo": "/assets/posters/img7.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=jClDEbfSpi4",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Super man",
+    "logo": "/assets/posters/img8.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=jClDEbfSpi4",
+      "preview": "/assets/videos/video.mp4"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Lucy",
+    "logo": "/assets/posters/img9.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=jClDEbfSpi4",
+      "preview": "/assets/videos/video.mp4"
+    }
+  }
+
+]
